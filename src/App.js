@@ -1,5 +1,3 @@
-
-
 import React, { Component } from 'react'
 import GetUsername from '../src/components/GetUsername';
 import Chat from '../src/components/Chat'
