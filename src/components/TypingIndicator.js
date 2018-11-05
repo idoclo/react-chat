@@ -1,5 +1,5 @@
-
 import React, { Component } from 'react'
+
 class TypingIndicator extends Component {
   render() {
     if (this.props.typingUsers.length > 0) {
@@ -14,4 +14,5 @@ class TypingIndicator extends Component {
     return <div />
   }
 }
-export default TypingIndicator
+
+export default TypingIndicator;
